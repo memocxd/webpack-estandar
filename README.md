@@ -8,6 +8,12 @@ Es necesario recontruir los modulos de node con el siguiente comando:
 npm install
 ```
 
+Para crear la configuración inicial del proyecto
+
+```
+npm init
+```
+
 Para crear nuevamente el DIST
 
 ```
