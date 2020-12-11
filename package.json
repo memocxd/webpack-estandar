@@ -1,5 +1,5 @@
 {
-  "name": "03-webpack-inicial",
+  "name": "webpack-inicial",
   "version": "1.0.0",
   "description": "Este es un cascaron de un proyecto de webpack",
   "main": "index.js",
